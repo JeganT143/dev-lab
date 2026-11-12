@@ -1,3 +1,4 @@
 internal/
 .env
 env/
+*.exe
